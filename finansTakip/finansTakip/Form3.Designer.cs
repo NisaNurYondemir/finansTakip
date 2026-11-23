@@ -1,0 +1,339 @@
+﻿namespace finansTakip
+{
+    partial class Form3
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.close = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.logout_btn = new System.Windows.Forms.Button();
+            this.expenses_btn = new System.Windows.Forms.Button();
+            this.income_btn = new System.Windows.Forms.Button();
+            this.addCategory_btn = new System.Windows.Forms.Button();
+            this.dashboard_btn = new System.Windows.Forms.Button();
+            this.greetUser = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.expensesForm1 = new finansTakip.ExpensesForm();
+            this.incomeForm1 = new finansTakip.IncomeForm();
+            this.categoryForm1 = new finansTakip.CategoryForm();
+            this.dashboardForm1 = new finansTakip.DashboardForm();
+            this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.panel3.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.close);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1408, 62);
+            this.panel1.TabIndex = 0;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::finansTakip.Properties.Resources.indir1;
+            this.pictureBox1.Location = new System.Drawing.Point(13, 12);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(40, 37);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(64, 18);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(252, 25);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Kişisel Bütçe Takip Asistanı";
+            // 
+            // close
+            // 
+            this.close.AutoSize = true;
+            this.close.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.close.Font = new System.Drawing.Font("MS Reference Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.close.Location = new System.Drawing.Point(1365, 11);
+            this.close.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.close.Name = "close";
+            this.close.Size = new System.Drawing.Size(24, 24);
+            this.close.TabIndex = 2;
+            this.close.Text = "X";
+            this.close.Click += new System.EventHandler(this.close_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.DarkGreen;
+            this.panel2.Controls.Add(this.panel4);
+            this.panel2.Controls.Add(this.logout_btn);
+            this.panel2.Controls.Add(this.expenses_btn);
+            this.panel2.Controls.Add(this.income_btn);
+            this.panel2.Controls.Add(this.addCategory_btn);
+            this.panel2.Controls.Add(this.dashboard_btn);
+            this.panel2.Controls.Add(this.greetUser);
+            this.panel2.Controls.Add(this.pictureBox2);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel2.Location = new System.Drawing.Point(0, 62);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(267, 740);
+            this.panel2.TabIndex = 1;
+            // 
+            // panel4
+            // 
+            this.panel4.Location = new System.Drawing.Point(267, 0);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(1141, 737);
+            this.panel4.TabIndex = 0;
+            // 
+            // logout_btn
+            // 
+            this.logout_btn.BackColor = System.Drawing.Color.DarkGreen;
+            this.logout_btn.FlatAppearance.BorderSize = 0;
+            this.logout_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.logout_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.logout_btn.ForeColor = System.Drawing.Color.White;
+            this.logout_btn.Image = global::finansTakip.Properties.Resources.icons8_logout_25;
+            this.logout_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.logout_btn.Location = new System.Drawing.Point(13, 683);
+            this.logout_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.logout_btn.Name = "logout_btn";
+            this.logout_btn.Size = new System.Drawing.Size(235, 43);
+            this.logout_btn.TabIndex = 8;
+            this.logout_btn.Text = "Oturumu Kapat";
+            this.logout_btn.UseVisualStyleBackColor = false;
+            this.logout_btn.Click += new System.EventHandler(this.logout_btn_Click);
+            // 
+            // expenses_btn
+            // 
+            this.expenses_btn.BackColor = System.Drawing.Color.DarkGreen;
+            this.expenses_btn.FlatAppearance.BorderSize = 0;
+            this.expenses_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.expenses_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.expenses_btn.ForeColor = System.Drawing.Color.White;
+            this.expenses_btn.Image = global::finansTakip.Properties.Resources.payment;
+            this.expenses_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.expenses_btn.Location = new System.Drawing.Point(13, 416);
+            this.expenses_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.expenses_btn.Name = "expenses_btn";
+            this.expenses_btn.Size = new System.Drawing.Size(235, 43);
+            this.expenses_btn.TabIndex = 7;
+            this.expenses_btn.Text = "Gider";
+            this.expenses_btn.UseVisualStyleBackColor = false;
+            this.expenses_btn.Click += new System.EventHandler(this.expenses_btn_Click);
+            // 
+            // income_btn
+            // 
+            this.income_btn.BackColor = System.Drawing.Color.DarkGreen;
+            this.income_btn.FlatAppearance.BorderSize = 0;
+            this.income_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.income_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.income_btn.ForeColor = System.Drawing.Color.White;
+            this.income_btn.Image = global::finansTakip.Properties.Resources.icons8_income_25;
+            this.income_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.income_btn.Location = new System.Drawing.Point(13, 366);
+            this.income_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.income_btn.Name = "income_btn";
+            this.income_btn.Size = new System.Drawing.Size(235, 43);
+            this.income_btn.TabIndex = 6;
+            this.income_btn.Text = "Gelir";
+            this.income_btn.UseVisualStyleBackColor = false;
+            this.income_btn.Click += new System.EventHandler(this.income_btn_Click);
+            // 
+            // addCategory_btn
+            // 
+            this.addCategory_btn.BackColor = System.Drawing.Color.DarkGreen;
+            this.addCategory_btn.FlatAppearance.BorderSize = 0;
+            this.addCategory_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.addCategory_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.addCategory_btn.ForeColor = System.Drawing.Color.White;
+            this.addCategory_btn.Image = global::finansTakip.Properties.Resources.category;
+            this.addCategory_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.addCategory_btn.Location = new System.Drawing.Point(13, 315);
+            this.addCategory_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.addCategory_btn.Name = "addCategory_btn";
+            this.addCategory_btn.Size = new System.Drawing.Size(235, 43);
+            this.addCategory_btn.TabIndex = 5;
+            this.addCategory_btn.Text = "Kategori Ekle";
+            this.addCategory_btn.UseVisualStyleBackColor = false;
+            this.addCategory_btn.Click += new System.EventHandler(this.addCategory_btn_Click);
+            // 
+            // dashboard_btn
+            // 
+            this.dashboard_btn.BackColor = System.Drawing.Color.DarkGreen;
+            this.dashboard_btn.FlatAppearance.BorderSize = 0;
+            this.dashboard_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.dashboard_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.dashboard_btn.ForeColor = System.Drawing.Color.White;
+            this.dashboard_btn.Image = global::finansTakip.Properties.Resources.dashboard;
+            this.dashboard_btn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.dashboard_btn.Location = new System.Drawing.Point(13, 265);
+            this.dashboard_btn.Margin = new System.Windows.Forms.Padding(4);
+            this.dashboard_btn.Name = "dashboard_btn";
+            this.dashboard_btn.Size = new System.Drawing.Size(235, 43);
+            this.dashboard_btn.TabIndex = 4;
+            this.dashboard_btn.Text = "Kontrol Paneli";
+            this.dashboard_btn.UseVisualStyleBackColor = false;
+            this.dashboard_btn.Click += new System.EventHandler(this.dashboard_btn_Click);
+            // 
+            // greetUser
+            // 
+            this.greetUser.AutoSize = true;
+            this.greetUser.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.greetUser.ForeColor = System.Drawing.Color.White;
+            this.greetUser.Location = new System.Drawing.Point(16, 186);
+            this.greetUser.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.greetUser.Name = "greetUser";
+            this.greetUser.Size = new System.Drawing.Size(118, 24);
+            this.greetUser.TabIndex = 3;
+            this.greetUser.Text = "Hoşgeldiniz,";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::finansTakip.Properties.Resources.indir1;
+            this.pictureBox2.Location = new System.Drawing.Point(69, 37);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(133, 123);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 2;
+            this.pictureBox2.TabStop = false;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.dashboardForm1);
+            this.panel3.Controls.Add(this.expensesForm1);
+            this.panel3.Controls.Add(this.incomeForm1);
+            this.panel3.Controls.Add(this.categoryForm1);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.Location = new System.Drawing.Point(267, 62);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(1141, 740);
+            this.panel3.TabIndex = 2;
+            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
+            // 
+            // expensesForm1
+            // 
+            this.expensesForm1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.expensesForm1.Location = new System.Drawing.Point(0, 0);
+            this.expensesForm1.Name = "expensesForm1";
+            this.expensesForm1.Size = new System.Drawing.Size(1141, 740);
+            this.expensesForm1.TabIndex = 2;
+            // 
+            // incomeForm1
+            // 
+            this.incomeForm1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.incomeForm1.Location = new System.Drawing.Point(0, 0);
+            this.incomeForm1.Margin = new System.Windows.Forms.Padding(5);
+            this.incomeForm1.Name = "incomeForm1";
+            this.incomeForm1.Size = new System.Drawing.Size(1141, 740);
+            this.incomeForm1.TabIndex = 1;
+            // 
+            // categoryForm1
+            // 
+            this.categoryForm1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.categoryForm1.Location = new System.Drawing.Point(0, 0);
+            this.categoryForm1.Margin = new System.Windows.Forms.Padding(5);
+            this.categoryForm1.Name = "categoryForm1";
+            this.categoryForm1.Size = new System.Drawing.Size(1141, 740);
+            this.categoryForm1.TabIndex = 0;
+            // 
+            // dashboardForm1
+            // 
+            this.dashboardForm1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dashboardForm1.Location = new System.Drawing.Point(0, 0);
+            this.dashboardForm1.Margin = new System.Windows.Forms.Padding(4);
+            this.dashboardForm1.Name = "dashboardForm1";
+            this.dashboardForm1.Size = new System.Drawing.Size(1141, 740);
+            this.dashboardForm1.TabIndex = 3;
+            // 
+            // Form3
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1408, 802);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "Form3";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Form3";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label close;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button dashboard_btn;
+        private System.Windows.Forms.Label greetUser;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Button logout_btn;
+        private System.Windows.Forms.Button expenses_btn;
+        private System.Windows.Forms.Button income_btn;
+        private System.Windows.Forms.Button addCategory_btn;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel4;
+        private CategoryForm categoryForm1;
+        private IncomeForm incomeForm1;
+        private ExpensesForm expensesForm1;
+        private DashboardForm dashboardForm1;
+    }
+}

@@ -1,0 +1,32 @@
+D:\finansTakip\finansTakip\bin\Debug\finansTakip.exe.config
+D:\finansTakip\finansTakip\bin\Debug\finansTakip.exe
+D:\finansTakip\finansTakip\bin\Debug\finansTakip.pdb
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.csproj.AssemblyReference.cache
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Form1.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Properties.Resources.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.csproj.GenerateResource.cache
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.csproj.CoreCompileInputs.cache
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.exe
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.pdb
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Form2.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Form3.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.CategoryForm.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.DashboardForm.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.IncomeForm.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.ExpensesForm.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\bin\Debug\finansTakip.exe.config
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\bin\Debug\finansTakip.exe
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\bin\Debug\finansTakip.pdb
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.csproj.AssemblyReference.cache
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.CategoryForm.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.DashboardForm.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.ExpensesForm.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.Form1.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.Form2.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.Form3.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.IncomeForm.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.Properties.Resources.resources
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.csproj.GenerateResource.cache
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.csproj.CoreCompileInputs.cache
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.exe
+C:\Users\nsnry\OneDrive - gazi.edu.tr\Masaüstü\finansTakip\obj\Debug\finansTakip.pdb

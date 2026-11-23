@@ -1,0 +1,16 @@
+D:\finansTakip\finansTakip\bin\Debug\finansTakip.exe.config
+D:\finansTakip\finansTakip\bin\Debug\finansTakip.exe
+D:\finansTakip\finansTakip\bin\Debug\finansTakip.pdb
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.csproj.AssemblyReference.cache
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Form1.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Properties.Resources.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.csproj.GenerateResource.cache
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.csproj.CoreCompileInputs.cache
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.exe
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.pdb
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Form2.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.Form3.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.CategoryForm.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.DashboardForm.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.IncomeForm.resources
+D:\finansTakip\finansTakip\obj\Debug\finansTakip.ExpensesForm.resources
